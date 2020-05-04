@@ -1,0 +1,13 @@
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\bin\Debug\netcoreapp3.1\RandomGenerators.exe
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\bin\Debug\netcoreapp3.1\RandomGenerators.deps.json
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\bin\Debug\netcoreapp3.1\RandomGenerators.runtimeconfig.json
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\bin\Debug\netcoreapp3.1\RandomGenerators.runtimeconfig.dev.json
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\bin\Debug\netcoreapp3.1\RandomGenerators.dll
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\bin\Debug\netcoreapp3.1\RandomGenerators.pdb
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\obj\Debug\netcoreapp3.1\RandomGenerators.csprojAssemblyReference.cache
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\obj\Debug\netcoreapp3.1\RandomGenerators.csproj.CoreCompileInputs.cache
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\obj\Debug\netcoreapp3.1\RandomGenerators.AssemblyInfoInputs.cache
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\obj\Debug\netcoreapp3.1\RandomGenerators.AssemblyInfo.cs
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\obj\Debug\netcoreapp3.1\RandomGenerators.dll
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\obj\Debug\netcoreapp3.1\RandomGenerators.pdb
+A:\PG\SemestrIV\MPWI\Laby\Lab3\RandomGenerators\RandomGenerators\obj\Debug\netcoreapp3.1\RandomGenerators.genruntimeconfig.cache
