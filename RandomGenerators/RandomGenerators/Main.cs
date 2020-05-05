@@ -15,7 +15,7 @@ namespace RandomGenerators
                 .PrintRangeCouters();
 
 
-            EliminationMethod tupleGenerator = new EliminationMethod(10);
+            EliminationMethod tupleGenerator = new EliminationMethod(10000);
             tupleGenerator
                 .RandTuples()
                 .PrintRandNumbers();

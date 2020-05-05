@@ -22,13 +22,15 @@ namespace RandomGenerators.Classes
 
         private (double, double) RandTuple()
         {
-            double U2 = RandDoubleInRange(0, 30);
-            double U1 = RandDoubleInRange(20, 60);
-            double fun_U2 = Fun(U2);
-            if (U1 <= fun_U2)
-                return (U2, fun_U2);
-            else
-                return RandTuple(); // rand as many times as it will return a tuple (u and f(u))
+            double U2, U1, fun_U2;
+            do
+            {
+                U2 = RandDoubleInRange(0, 30);
+                U1 = RandDoubleInRange(20, 60);
+                fun_U2 = Fun(U2);
+
+            } while (U1 > fun_U2); // rand as many times as it will be proper tuple (u and f(u))
+            return (U2, fun_U2);
         }
 
         public EliminationMethod(int numberOfTuplesToGenerate)
