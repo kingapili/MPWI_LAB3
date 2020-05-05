@@ -8,15 +8,11 @@ namespace RandomGenerators
     {
         static void Main(string[] args)
         {
-            InverseCumulativeDistributionMethod generator = new InverseCumulativeDistributionMethod();
-            for (int i=0; i < 10; ++i)
-            {
-                Console.WriteLine(
-                    generator
-                        .RandRange()
-                        .RandNumber()
-                    );
-            }
+            InverseCumulativeDistributionMethod generator = new InverseCumulativeDistributionMethod(10000);
+            generator
+                .ClearRangesCounters()
+                .PrintRandNumbers()
+                .PrintRangeCouters();
 
 
             EliminationMethod tupleGenerator = new EliminationMethod(10);
